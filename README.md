@@ -8,7 +8,7 @@ Es una **app web instalable (PWA)**:
 
 La versión 1, el programa de consola en Java, es la práctica de clase y está en `pokemon-app/`.
 
-**Pruébala:** https://TU-USUARIO.github.io/apex-dex/ (cambia la dirección por la tuya cuando la publiques: [DESPLIEGUE.md](DESPLIEGUE.md))
+**Pruébala:** https://cristianmoriche.github.io/apex-dex/ (cómo se publicó e instalarla en el iPhone: [DESPLIEGUE.md](DESPLIEGUE.md))
 
 ## Pantallas
 
